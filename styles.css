@@ -296,6 +296,7 @@ h2 {
 
 /* Login Modal Content/Box */
 .login-modal-content {
+  box-shadow: 5px 15px 40px rgba(70, 179, 230, 0.4);
   background-color: #fefefe;
   margin: 15% auto; /* 15% from the top and centered */
   padding: 20px;
@@ -354,6 +355,7 @@ h2 {
 }
 /* The logout style */
 .logout-modal-content{
+  box-shadow: 5px 15px 40px rgba(70, 179, 230, 0.4);
   background-color: #CEE8E2;
   margin: 15% auto; /* 15% from the top and centered */
   padding: 20px;
@@ -432,6 +434,7 @@ h2 {
 
 /* Modal Content/Box */
 .sign-modal-content {
+  box-shadow: 5px 15px 40px rgba(70, 179, 230, 0.4);
   background-color: #fefefe;
   margin: 15% auto; /* 15% from the top and centered */
   padding: 20px;
